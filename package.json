@@ -1,0 +1,30 @@
+{
+  "name": "mini-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MVVM.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenhao981121/mini-vue.git"
+  },
+  "author": "ahao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenhao981121/mini-vue/issues"
+  },
+  "homepage": "https://github.com/wenhao981121/mini-vue#readme",
+  "dependencies": {
+    "htmlparser2": "^7.1.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
